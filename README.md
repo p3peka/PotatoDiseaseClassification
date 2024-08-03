@@ -4,8 +4,6 @@ Several changes have been made relative to the original author's code
 (Codebasics), such as replacing outdated technologies with modern ones 
 for creating models, changes in models with data display.
 
-> At the moment, I continue changing technologies to current versions and adapting the code for mac (problems with Tensorflow performance).
-
 ### Project includes:
 - Building multilayer perceptron
 - Model deployment to GCP
